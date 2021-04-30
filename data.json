@@ -1,0 +1,58 @@
+{
+    "device": [
+    {
+    "id": "260",
+    "tags": {
+    "cvg_sc": {
+    "quality_code": 0,
+    "timeoffset_usec": 5803011,
+    "timestamp": 1619074792,
+    "value": 54674.67578
+    },
+    "cvo_sc": {
+    "quality_code": 0,
+    "timeoffset_usec": 5803011,
+    "timestamp": 1619074792,
+    "value": 13433.89355
+    },
+    "cvw_sc": {
+    "quality_code": 0,
+    "timeoffset_usec": 5803011,
+    "timestamp": 1619074792,
+    "value": 9058.263672
+    },
+    "qg_sc": {
+    "quality_code": 0,
+    "timeoffset_usec": 5803011,
+    "timestamp": 1619074792,
+    "value": 1828.148682
+    },
+    "qo_sc": {
+    "quality_code": 0,
+    "timeoffset_usec": 5803011,
+    "timestamp": 1619074792,
+    "value": 226.4061279
+    },
+    "qw_sc": {
+    "quality_code": 0,
+    "timeoffset_usec": 5803011,
+    "timestamp": 1619074792,
+    "value": 187.3164978
+    }
+    }
+    }
+    ],
+    "header": {
+    "Compressed": false,
+    "ConfigVersion": 20,
+    "GroupID": "5F486A50",
+    "LandingPoint": "EDGE",
+    "MessageID": 1134340258,
+    "MessageType": "IODataReport",
+    "SrcModule": "modbus-module",
+    "TimeStamp": 751356417605
+    },
+    "report-reason": 1,
+    "timestamp": "2021-04-22T07:00:06Z"
+    }
+    
